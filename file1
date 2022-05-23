@@ -1,0 +1,3 @@
+#!/bin/bash
+name=vinod
+echo " my name is $name "
