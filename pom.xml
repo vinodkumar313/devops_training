@@ -64,7 +64,7 @@
 
     </dependencies>
     <build>
-        <finalName>vinodkumar</finalName>
+        <finalName>vinod</finalName>
         <plugins>
 
             <!-- Package as an executable jar/war -->
