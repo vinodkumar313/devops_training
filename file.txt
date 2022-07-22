@@ -1,0 +1,3 @@
+#!/bin/bash
+echo " hi vinod"
+echo "how r u"
